@@ -1,0 +1,24 @@
+.roterBlock{
+    background-color: red;
+    color: white;
+}
+
+.blauerBlock{
+    background-color: blue;
+    color: white;
+}
+.gruenerBlock{
+background-color: green;
+color: white;
+font-size: 18px;
+
+}
+
+/*
+    AUFGABE
+    1) Erstelle eine neue CSS-Klasse gruenerBlock
+    2) Gib dieser CSS-Klasse gruenerBlock die Hintergrundfarbe green
+    3) Gib dieser CSS-Klasse gruenerBlock die Schriftfarbe white
+    4) Gib dieser CSS-Klasse gruenerBlock die Schriftgröße 18px
+    5) Wende die CSS-Klasse gruenerBlock an auf das <div>-Tag in Zeile 14 und 15
+*/

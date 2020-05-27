@@ -1,0 +1,19 @@
+.nav{
+    margin-left: 40px;
+    margin-right: 40px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+/***
+    AUFGABE:
+    1) Erstelle die CSS-Klasse nav-link. Sie überschreibt die nav-link Klasse der bootstrap.css
+    2) Wähle einen Innenabstand nach links mit 40px
+    3) Wähle einen Innenabstand nach rechts mit 40px
+    4) Wähle ein Schriftgewicht von bold
+*/

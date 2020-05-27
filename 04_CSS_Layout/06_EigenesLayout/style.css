@@ -1,0 +1,44 @@
+div {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.site{
+    display: grid;
+    grid-column: 8;
+    grid-template-rows: 100px 600px 100px;
+    grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
+    border: solid 1px white;
+}
+.header{
+    background-color: red;
+    color: white;
+    grid-column: 1 / 9;
+    border: solid 1px blue;
+}
+.nav{
+    background-color: rgb(136, 136, 136);
+    color: yellow;
+    grid-column: 2 / 3;
+    border: solid 1px green;
+}
+.content{
+    background-color: pink;
+    color: black;
+    grid-column: 3 / 8;
+    border: solid 1px violet;    
+}
+.footer{
+    background-color: rgb(187, 187, 187);
+    color: white;
+    grid-column: 1 / 9;
+    border: solid 1px purple;
+}
+
+/*
+    AUFGABE:
+    1) Wende dein Styling deiner Vision an mit Hilfe des Grid-Layouts
+    
+*/

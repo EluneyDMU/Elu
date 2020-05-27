@@ -1,0 +1,23 @@
+div {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.innererBlock {
+    padding: 40px;
+    border: 1px solid black;
+}
+.content{
+    padding: 20px;
+    border: 1px solid black;
+
+}
+/*
+    AUFGABE:
+    1) Erstelle eine neue CSS-KLasse content
+    2) Gib der CSS-Klasse content den Außenabstand von 20px
+    3) Gib der CSS-Klasse content einen Rahmen von 1px solid black
+    4) Passe den Innenabstand der CSS-Klasse innererBlock an auf 40px
+*/

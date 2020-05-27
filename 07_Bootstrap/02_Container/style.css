@@ -1,0 +1,14 @@
+.jumbotron{
+  font-size: 12px;
+  border: 1px solid black;
+}
+
+
+
+
+/***
+    AUFGABE:
+    1) Erstelle die CSS-Klasse jumbotron. Sie überschreibt die jumbotron Klasse der bootstrap.css
+    2) Wähle für die CSS-Klasse jumbotron die Schriftgröße 12px
+    2) Wähle für die CSS-Klasse jumbotron den Rahmen 1px solid black
+*/

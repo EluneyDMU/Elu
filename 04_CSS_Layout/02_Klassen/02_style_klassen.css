@@ -1,0 +1,14 @@
+.roterBlock{
+    background-color: red;
+    color: white;
+}
+.blauerBlock{
+    background-color: aquamarine;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*
+    AUFGABE
+    1) Passe die Hintergrundfarbe der CSS-Klasse blauerBlock an auf aquamarine
+    2) Passe die Schriftart der CSS-Klasse blauerBlock an auf Verdana
+*/

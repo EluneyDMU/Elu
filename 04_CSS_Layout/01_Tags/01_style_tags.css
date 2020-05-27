@@ -1,0 +1,22 @@
+body {
+    font-family: Arial;
+    font-size: 12px;
+    color: blue;
+}
+h1 {
+    font-family: 'Times New Roman';
+    color: orange;
+}
+p{
+    color: cadetblue;
+    font-family: Verdana;
+}
+header{
+    background-color: palegoldenrod;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; ;
+}
+/*
+    AUFGABE
+    1) Passe die Farbe des <h1>-Tags an auf orange
+    2) Passe den Schrifttyp des <p>-Tags an in Verdana
+*/

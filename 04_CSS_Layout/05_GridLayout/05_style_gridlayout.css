@@ -1,0 +1,51 @@
+div { /*CSS-Selektor*/
+    margin-top: 10px;/*Außenabstand*/
+    margin-bottom: 10px;
+    padding-left: 10px;/*Innenabstand*/
+    padding-right: 10px;
+}
+
+.site{
+    display: grid;
+    grid-column: 8;
+    grid-template-rows: 100px 400px 100px;/*Höhe der Reihe des Grid-Layouts*/
+    grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;/*Breite einer Spalte des Grid-Layouts*/
+    border: solid 1px black;
+}
+.header{/*CSS-Klasse*/
+    background-color: red;/*Hintergrundfarbe*/
+    color: white;/*Schriftfarbe*/
+    grid-column: 1 / 9;
+    border: solid 1px black;
+}
+.nav{
+    background-color: yellow;
+    color: black;
+    grid-column: 2 / 3;
+    border: solid 1px black;
+}
+.content{
+    background-color: yellow;
+    color: black;
+    grid-column: 3 / 8;
+    border: solid 1px black;    
+}
+.footer{
+    background-color: green;
+    color: white;
+    grid-column: 1 / 9;
+    border: solid 1px black;
+}
+.innerContent{
+    padding: 20px;
+    font-family:Verdana ;
+    background-color: beige;
+}
+/*
+    AUFGABE:
+    1) Erstelle eine neue CSS-KLasse innerContent
+    2) Gib der CSS-Klasse innerContent den Innenabstand von 20px
+    3) Gib der CSS-Klasse innerContent die Schriftart Verdana
+    4) Gib der CSS-Klasse innerContent die Hintergrundfarbe beige
+    
+*/

@@ -1,0 +1,12 @@
+p { /*CSS-Selektor*/
+    color: cadetblue;/*CSS-Eigenschaft = CSS-Wert*/
+    font-size: 16px;/**Schriftgröße*/
+    font-family: Verdana;
+    font-weight: bold;/**Schriftgewicht*/    
+} 
+h1 {/*CSS-Selektor*/
+    color: brown;
+    background-color: coral;
+    font-family: 'Courir New';
+    font-style: italic;
+}
